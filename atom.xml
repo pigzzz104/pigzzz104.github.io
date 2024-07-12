@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pigzzz104.github.io</id>
+    <title>Pigzzz&apos;s Blog</title>
+    <updated>2024-07-12T09:19:46.821Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pigzzz104.github.io"/>
+    <link rel="self" href="https://pigzzz104.github.io/atom.xml"/>
+    <logo>https://pigzzz104.github.io/images/avatar.png</logo>
+    <icon>https://pigzzz104.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Pigzzz&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows/Android 软件资源整合]]></title>
+        <id>https://pigzzz104.github.io/post/software/</id>
+        <link href="https://pigzzz104.github.io/post/software/">
+        </link>
+        <updated>2024-07-12T09:10:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>各种去广告/修改版合集，以及一些实用的工具类软件</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>各种去广告/修改版合集，以及一些实用的工具类软件</p>
+<!-- more -->
+<h2 id="安卓软件">安卓软件</h2>
+<h3 id="定制版修改版内置模块">定制版/修改版（内置模块）</h3>
+<blockquote>
+<p>解锁付费功能/界面自定义/清爽去广告<br>
+<img src="https://pigzzz104.github.io/post-images/1720775952307.png" alt="" loading="lazy"><br>
+<a href="https://www.123pan.com/s/wR1qVv-Cw1WA.html">点我获取</a></p>
+</blockquote>
+<h2 id="windows软件">Windows软件</h2>
+<p>待更新ing...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://pigzzz104.github.io/post/about/</id>
+        <link href="https://pigzzz104.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<h2 id="关于本站">🏠 关于本站</h2>
+<ul>
+<li>pigzzz 的个人自留地</li>
+<li>05后，提篮桥在读，INTJ，成分复杂，爱折腾的技术爱好者</li>
+<li>随缘更新</li>
+<li>城市交通与规划，财专日常，软硬件交流等</li>
+</ul>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p><a href="https://github.com/pigzzz104">Github</a> <code>pigzzz104</code><br>
+<a href="mailto:zhukeyi0514@163.com">E-mail</a> <code>zhukeyi0514@163.com</code><br>
+<a href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1119805512">QQ</a> <code>1119805512</code></p>
+]]></content>
+    </entry>
+</feed>
